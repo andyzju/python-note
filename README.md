@@ -1,3 +1,6 @@
-# My Awesome Book
+# python学习记录
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+随着深度学习以及机器学习的大热，越来越多的人开始重新关注python，python也因为其简单、强大的功能和丰富的类库，受到极大的欢迎。本书将围绕python学习中的内容进行总结和梳理，轻语法、重实践过程中的坑，以及框架和机器学习的类库。
+
+
+

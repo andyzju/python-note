@@ -1,4 +1,4 @@
-# First Chapter-前言
+# 前言
 
-GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.-
+python 语言本身的语法没有多少值得探究的，本书中将
 
